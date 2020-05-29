@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    background-image: url(/img/emoticon1.png);
+    color: white;
+    font-size: 40px;
+    background-repeat: no-repeat;
+    padding: 20px 60px 20px 100px;
+    background-color: cornflowerblue;
+    background-position: 15px, center;
+}
+
+a:hover {
+    display: inline-block;
+    text-decoration: none;
+    background-image: url(/img/emoticon2.png);
+    color: white;
+    font-size: 40px;
+    background-repeat: no-repeat;
+    padding: 20px 60px 20px 100px;
+    background-color: cornflowerblue;
+    background-position: 15px, center;
+}
