@@ -8,7 +8,7 @@
 a {
     display: inline-block;
     text-decoration: none;
-    background-image: url(/img/emoticon1.png);
+    background-image: url("https://luk-em.github.io/ButtonSmile//img/emoticon1.png");
     color: white;
     font-size: 40px;
     background-repeat: no-repeat;
@@ -20,7 +20,7 @@ a {
 a:hover {
     display: inline-block;
     text-decoration: none;
-    background-image: url(/img/emoticon2.png);
+    background-image: url("https://luk-em.github.io/ButtonSmile//img/emoticon2.png");
     color: white;
     font-size: 40px;
     background-repeat: no-repeat;
